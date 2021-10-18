@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"script.js"}
+{"version":3,"sources":["script.js"],"names":["bgImg","document","querySelector","changeBg","window","matchMedia","matches","src","addEventListener"],"mappings":"AAAA,MAAMA,MAAQC,SAASC,cAAc,UAErC,SAASC,WACR,OAAOC,OAAOC,WAAW,sBAAsBC,QAC3CN,MAAMO,IAAM,2CACZP,MAAMO,IAAM,0CAIjBH,OAAOI,iBAAiB,SAAUL,UAGlCA","file":"script.js"}
