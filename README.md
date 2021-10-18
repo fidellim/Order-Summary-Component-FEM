@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Order Summary Card Dekstop](./images/order_summary_card_desktop.png)
+![Order Summary Card Mobile](./images/order_summary_card_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/fidellim/Order-Summary-Component-FEM)
+- Live Site URL: [Live Site](https://fidellim-order-summary-component-fem.netlify.app/)
 
 ## My process
 
@@ -45,7 +46,11 @@ Users should be able to:
 
 ### What I learned
 
+Able to use gulp to minify js and css files, convert sass files to css files, and run site in a local server.
+
 ### Continued development
+
+To be able to implement other npm packages.
 
 ### Useful resources
 
