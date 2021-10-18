@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+// another way to center items
+body {
+	display: grid;
+	min-height: 100vh;
+	place-items: center;
+}
