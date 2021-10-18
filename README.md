@@ -50,6 +50,9 @@ Users should be able to:
 ### Useful resources
 
 - [Gulp Workflow](https://youtu.be/q0E1hbcj-NI) - Tutorial on how to implement gulp, sass, and browsersync.
+- [px to rem using sass](https://dev.to/nikolab/convert-px-to-rem-using-sass-3-methods-4ep2) - Tutorial on how to convert px to rem using mixing or function with SASS.
+- [Media Queries w/ JS](https://www.w3schools.com/howto/howto_js_media_queries.asp) - Implement Media Queries using JS.
+- [Resize event](https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event) - Resize event information
 
 ## Author
 
